@@ -1,0 +1,26 @@
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\appsettings.json
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Simple REST Service.exe
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Simple REST Service.deps.json
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Simple REST Service.runtimeconfig.json
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Simple REST Service.runtimeconfig.dev.json
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Simple REST Service.dll
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\ref\Simple REST Service.dll
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Simple REST Service.pdb
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.csprojAssemblyReference.cache
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.AssemblyInfoInputs.cache
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.AssemblyInfo.cs
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.csproj.CoreCompileInputs.cache
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\staticwebassets\Simple REST Service.StaticWebAssets.Manifest.cache
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\staticwebassets\Simple REST Service.StaticWebAssets.xml
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\scopedcss\bundle\Simple REST Service.styles.css
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.RazorTargetAssemblyInfo.cache
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.dll
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\ref\Simple REST Service.dll
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.pdb
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.genruntimeconfig.cache
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Library.dll
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\bin\Debug\net5.0\Library.pdb
+C:\Users\Paulina\source\repos\Assignment\Simple REST Service\Simple REST Service\obj\Debug\net5.0\Simple REST Service.csproj.CopyComplete

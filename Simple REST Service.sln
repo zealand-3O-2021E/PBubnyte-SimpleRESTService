@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple REST Service", "Simple REST Service\Simple REST Service.csproj", "{D87DA214-A586-44B3-9A8F-9558DC3B76DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "..\Library\Library\Library.csproj", "{BC3D3C38-C13D-4313-86D9-EF53829A94F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D87DA214-A586-44B3-9A8F-9558DC3B76DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87DA214-A586-44B3-9A8F-9558DC3B76DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87DA214-A586-44B3-9A8F-9558DC3B76DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87DA214-A586-44B3-9A8F-9558DC3B76DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3D3C38-C13D-4313-86D9-EF53829A94F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3D3C38-C13D-4313-86D9-EF53829A94F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3D3C38-C13D-4313-86D9-EF53829A94F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3D3C38-C13D-4313-86D9-EF53829A94F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2FC97F-B90F-4861-9082-21089358FE41}
+	EndGlobalSection
+EndGlobal
